@@ -1,4 +1,6 @@
 #выгрзка прайс листа в excell
+#если не работает pandas , то нужно установить 
+#https://www.microsoft.com/ru-RU/download/details.aspx?id=48145
 
 import pyodbc
 import pandas as pd
